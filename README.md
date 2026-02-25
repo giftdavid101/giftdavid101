@@ -3,7 +3,7 @@
 - I'm curious about BIG DATA 
 - I'm a Software Engineer
 - I like to Explore Devops
-- I'm getting used to ML
+- I'm getting addicted to ML 🙂
 - I know AI
 
 <!--
