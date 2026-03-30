@@ -5,7 +5,7 @@ I am a data lover with Passion in
 - Data Engineering
 - Data Analysis   
 
-I get involved in basically every thing that involves data.
+I get involved in basically every thing that involves data.  
 Other **experiences** includes: Software Engineering, Cloud, Devops, Machine Learning, AI.
 
 my **TOOLS in Data Engineering**
