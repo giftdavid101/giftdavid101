@@ -3,7 +3,8 @@ My name is **Gift David**.
 I am a data lover with Passion in 
 - Data Science,
 - Data Engineering
-- Data Analysis 
+- Data Analysis   
+
 I get involved in basically every thing that involves data.
 I've got experiences in Software Engineering, Cloud, Devops, Machine Learning, AI.
 
