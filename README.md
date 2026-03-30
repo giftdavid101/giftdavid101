@@ -1,32 +1,29 @@
 ## Hi there 👋
-- I'm Passionate about Data Science 
-- I'm curious about BIG DATA 
-- I'm a Software Engineer
-- I like to Explore Devops
-- I'm getting addicted to ML 🙂
-- I know AI
+My name is **Gift David**. 
+I am a data lover with Passion in 
+- Data Science,
+- Data Engineering
+- Data Analysis.
+I get involved in basically every thing that involves data.
+I've got experiences in Software Engineering, Cloud, Devops, Machine Learning, AI.
 
-<!--
-### Languages I've used and still using
+my **TOOLS in Data Engineering**
 - Python
-- Javascript
 - Sql
+- Airflow
+- Kafka
+- GCP
+  
+<!--
+### Databases: Postgres, MongoDB, MySQL, SQLITE
+### Languages I've used and still using
+- **Python**
+- **Javascript**
+- **Sql**
 ### Frameworks and libraries
-- React, Next, 
--->
+- React, Next, NodeJS, Typescript
 
+-->
 
 <!--
 **giftdavid101/giftdavid101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
