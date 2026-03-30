@@ -23,7 +23,7 @@ my **TOOLS in Data Engineering**
 **Databases** i've used
 - MongoDB
 - POSTGRES
-- MYSQL
+- MySQL
 
 <!--
 ### Databases: Postgres, MongoDB, MySQL, SQLITE
