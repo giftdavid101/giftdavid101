@@ -14,7 +14,17 @@ my **TOOLS in Data Engineering**
 - Airflow
 - Kafka
 - GCP
-  
+
+**Languages** i know
+- Python
+- Javascript
+- SQL
+
+**Databases** i've used
+- MongoDB
+- POSTGRES
+- MYSQL
+
 <!--
 ### Databases: Postgres, MongoDB, MySQL, SQLITE
 ### Languages I've used and still using
